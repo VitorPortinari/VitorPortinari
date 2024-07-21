@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a front end student in his last school year;<br>I'm currently searching for an internship;<br>I'm learning javascript, php, html, css;<br>I know a little about java and SQL;
+I'm a Univesity student at UNICAMP in TADS;
 
 
 ## 🌐 Socials:
