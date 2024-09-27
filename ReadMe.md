@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Univesity student at UNICAMP in TADS;
+I'm a Univesity student at UNICAMP in Information Systems;
 
 
 ## 🌐 Socials:
